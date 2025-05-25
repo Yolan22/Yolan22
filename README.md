@@ -6,7 +6,7 @@ I'm a Quantum Engineering PhD student at the University of Bristol, specializing
 
 - **Quantum Optimal Control**: Currently working with the Dressed Chopped Random Basis (DCRAB) algorithm to optimize quantum systems.
 - **Experimental Simulations**: Developing simulations for laser physics, Gaussian beam optics, and electromagnetic field modeling to support our experimental setups.
-- **Machine Learning**: Exploring deep learning techniques for applications in experimental physics, particularly in imaging Bose-Einstein condensates (BECs) in optical lattices.:contentReference[oaicite:6]{index=6}
+- **Machine Learning**: Exploring deep learning techniques for applications in experimental physics, particularly in imaging Bose-Einstein condensates (BECs) in optical lattices.
 
 ## 🤝 Collaboration Opportunities
 
