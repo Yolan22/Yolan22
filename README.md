@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 
 
 I'm a Quantum Engineering PhD student at the University of Bristol, specializing in quantum simulations with ultracold atoms in optical lattices.
 
@@ -8,7 +8,7 @@ I'm a Quantum Engineering PhD student at the University of Bristol, specializing
 - **Experimental Simulations**: Developing simulations for laser physics, Gaussian beam optics, and electromagnetic field modeling to support our experimental setups.
 - **Machine Learning**: Exploring deep learning techniques for applications in experimental physics, particularly in imaging Bose-Einstein condensates (BECs) in optical lattices.
 
-## 🤝 Collaboration Opportunities
+##  Collaboration Opportunities
 
 I'm open to collaborating on projects involving:
 
@@ -18,7 +18,7 @@ I'm open to collaborating on projects involving:
 - Quantum optimal control algorithms for understanding fundamental physics
 - The intersection between Machine Learning and experimnental physics
 
-## 🧠 Seeking Expertise
+##  Seeking Expertise
 
 I'm looking for assistance with:
 
@@ -26,7 +26,7 @@ I'm looking for assistance with:
 - Data representation and vizualization  
 - Skill building projects for beginners in Machine Learning. General advice, tips, and learning resources are all welcome
 
-## 📧 Contact Me
+##  Contact Me
 
 Feel free to reach out via my institutional email: [yolan.ankaine@bristol.ac.uk](mailto:yolan.ankaine@bristol.ac.uk). 
 I am very keen on recieving mentorship from anyone with experience in programming and software engineering. 
