@@ -2,7 +2,7 @@
 
 I'm a Quantum Engineering PhD student at the University of Bristol, specializing in quantum simulations with ultracold atoms in optical lattices.
 
-## 🔭 Research Interests
+##  Research Interests
 
 - **Quantum Optimal Control**: Currently working with the Dressed Chopped Random Basis (DCRAB) algorithm to optimize quantum systems.
 - **Experimental Simulations**: Developing simulations for laser physics, Gaussian beam optics, and electromagnetic field modeling to support our experimental setups.
